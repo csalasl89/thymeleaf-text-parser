@@ -1,2 +1,2 @@
 # thymeleaf-text-parser
-Thymeleaf Text Mode Parser Utilities
+Thymeleaf Utilities library to parse and process Text-Mode Templates.
